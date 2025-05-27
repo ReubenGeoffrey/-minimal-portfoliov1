@@ -90,5 +90,5 @@ Special thanks to:
 ---
 
 <div align="center">
-Made with ❤️ by Aditya Joshi
+Made with ❤️ by Geoffrey 
 </div> #
